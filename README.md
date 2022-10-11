@@ -1,4 +1,12 @@
 # training-asg-lab
+
+## Context
+Security groups for LB and Servers
+launch Template
+Target Groups
+Loadbalancer
+Loadbalancer Listener
+https://lucid.app/lucidchart/feb03a43-85f9-4d16-b729-e9d5cb05bd78/edit?invitationId=inv_cfc06946-024f-48fc-989e-29397735800b&page=0_0#
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
 
